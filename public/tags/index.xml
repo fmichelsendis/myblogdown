@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo XMag</title>
+    <title>Tags on hugo-statnmap-theme</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Hugo XMag</description>
+    <description>Recent content in Tags on hugo-statnmap-theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
+      <title>regression</title>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
@@ -30,11 +28,11 @@
     </item>
     
     <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
+      <title>plot</title>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
