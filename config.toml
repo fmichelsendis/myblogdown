@@ -158,7 +158,7 @@ weight = 5
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "digitalcraftsman"
+    github          = "fmichelsendis"
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""
@@ -176,7 +176,7 @@ weight = 5
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "francomichelsendis"
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
@@ -185,7 +185,7 @@ weight = 5
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "spf13"
+    twitter         = ""
     googlescholar   = ""
     orcid           = ""
     researchgate    = ""

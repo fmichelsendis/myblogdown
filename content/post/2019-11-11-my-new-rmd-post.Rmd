@@ -1,0 +1,20 @@
+---
+title: My new Rmd post
+author: FMS
+date: '2019-11-11'
+slug: my-new-rmd-post
+categories:
+  - R
+tags:
+  - R Markdown
+banner: ''
+description: ''
+images: []
+menu: ''
+---
+
+<!--more-->
+
+This is me just writing a new Rmd post. 
+
+
