@@ -99,8 +99,8 @@ DefaultContentLanguage = "en"
 [Languages]
 [Languages.en]
 LanguageName = "English"
-title = "hugo-statnmap-theme"
-bio = "A wordpress twenty-fifteen like theme"
+title = "sendislab"
+bio = "My work"
 weight = 1
 
 [[Languages.en.menu.main]]
@@ -151,7 +151,7 @@ weight = 5
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    follow_button = "https://github.com/fmichelsendis"
 
 
 [social]
@@ -195,7 +195,7 @@ weight = 5
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    language_switcher = true
+    language_switcher = false
     recent_articles = true
     categories = true
     tags = true
